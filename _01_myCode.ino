@@ -22,11 +22,7 @@ void myCode()
   // Program between here-------------------------------------------------------------------
   
 
-  reflectanceSensorTest();
-
- branch test
-   
-  
+  reflectanceSensorTest();  
 
   
 
